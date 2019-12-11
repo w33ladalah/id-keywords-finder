@@ -250,6 +250,7 @@ hari
 harus
 haruslah
 harusnya
+hasil
 hendak
 hendaklah
 hendaknya
@@ -403,6 +404,7 @@ memperkirakan
 memperlihatkan
 mempersiapkan
 mempersoalkan
+mempertajam
 mempertanyakan
 mempunyai
 memulai
@@ -470,6 +472,8 @@ mirip
 misal
 misalkan
 misalnya
+mudah
+mudahan
 mula
 mulai
 mulailah
