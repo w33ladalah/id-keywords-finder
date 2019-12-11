@@ -1,3 +1,4 @@
+a
 ada
 adalah
 adanya
@@ -103,6 +104,7 @@ bersama
 bersama-sama
 bersiap
 bersiap-siap
+bertajuk
 bertanya
 bertanya-tanya
 berturut
@@ -356,6 +358,7 @@ lainnya
 lalu
 lama
 lamanya
+langsung
 lanjut
 lanjutnya
 lebih
@@ -446,6 +449,8 @@ menjadi
 menjawab
 menjelaskan
 menuju
+menulis
+menuliskan
 menunjuk
 menunjuki
 menunjukkan
@@ -489,6 +494,7 @@ nyaris
 nyatanya
 oleh
 olehnya
+p.r
 pada
 padahal
 padanya
@@ -499,6 +505,7 @@ pantas
 para
 pasti
 pastilah
+pengumuman
 penting
 pentingnya
 per
