@@ -68,6 +68,7 @@ belakangan
 belum
 belumlah
 benar
+benar-benar
 benarkah
 benarlah
 berada
@@ -431,6 +432,7 @@ mengakhiri
 mengapa
 mengatakan
 mengatakannya
+mengekspresikan
 mengenai
 mengerjakan
 mengetahui
