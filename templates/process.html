@@ -1,0 +1,15 @@
+{% extends 'index.html' %}
+
+{% block processed_text %}
+<hr>
+<div class="row mt-3">
+    <div class="col">
+        <h5>Extracted Keywords:</h5>
+        <ul>
+          {% for kw, score in keywords %}
+            <li>{{ kw }} => {{ score }}</li>
+          {% endfor %}
+        </ul>
+    </div>
+</div>
+{% endblock %}
