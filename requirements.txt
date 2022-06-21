@@ -5,7 +5,7 @@ itsdangerous==1.1.0
 Jinja2==2.10.3
 MarkupSafe==1.1.1
 multi-rake==0.0.1
-numpy==1.17.4
+numpy==1.22.0
 pycparser==2.19
 pyrsistent==0.15.6
 regex==2019.12.9
